@@ -1570,7 +1570,16 @@
         "symbol": "GRAI",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAI.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAI.png"
+      },
+      "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035": {
+        "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+        "name": "USDC",
+        "decimals": 6,
+        "symbol": "USDC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "8453": {
