@@ -1,5 +1,13 @@
 [
-  {
+      "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6": {
+      "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+      "name": "ICHI",
+      "decimals": 18,
+      "symbol": "ICHI",
+      "hasPermit": false,
+      "useInSwap": false,
+      "logoURI": ""
+    }  {
     "1": {
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
